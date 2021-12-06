@@ -1,6 +1,0 @@
-framework module Pods_MQTT_service {
-  umbrella header "Pods-MQTT-service-umbrella.h"
-
-  export *
-  module * { export * }
-}
